@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Esse projeto consiste em um clone do site do Netflix, totalmente responsivo. Foi desenvolvido com ReactJs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr/>
+  
+  Para rodar esse projeto em sua máquina,siga os seguintes passos:
 
-## Available Scripts
+**Clone o repositório:**
 
-In the project directory, you can run:
+    git clone https://github.com/mchjohn/clone-netflix.git
 
-### `yarn start`
+**Entre na pasta do projeto:**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    cd clone-netflix
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Rode o comando:** (instala as dependências necessárias)
 
-### `yarn test`
+    npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Rode o comando:** (inicia o build do projeto)
 
-### `yarn build`
+    npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feito esses passos o navegador irá iniciar sozinho na página do projeto.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- https://img.shields.io/badge/Linkedin-Michel John-blue&?style=social&logo=linkedin -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <!-- https://img.shields.io/badge/Github-Michel John%20Patel-black&?style=social&logo=Github -->
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/micheljohn/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/mchjohn">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
